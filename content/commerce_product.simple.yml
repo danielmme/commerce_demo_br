@@ -15,7 +15,7 @@
       title: 'Eau De Parfum, 50 mL'
       price:
         number: '150.000000'
-        currency_code: USD
+        currency_code: BRL
       status: '1'
       weight:
         number: '1.000000'
@@ -43,7 +43,7 @@ ace433d7-609c-447f-a727-9b2e68ecc68d:
       title: 'Miss Dior Eau De Toilette, 50 mL'
       price:
         number: '150.000000'
-        currency_code: USD
+        currency_code: BRL
       status: '1'
       weight:
         number: '1.000000'
@@ -71,7 +71,7 @@ ace433d7-609c-447f-a727-9b2e68ecc68d:
       title: 'Makeup Brush Set'
       price:
         number: '25.000000'
-        currency_code: USD
+        currency_code: BRL
       status: '1'
       weight:
         number: '1.000000'
@@ -98,7 +98,7 @@ ace433d7-609c-447f-a727-9b2e68ecc68d:
       title: 'Vintage Typewriter'
       price:
         number: '149.990000'
-        currency_code: USD
+        currency_code: BRL
       status: '1'
       weight:
         number: '1.000000'
@@ -129,7 +129,7 @@ f8979cf3-072b-4c8f-8e6b-53cb38bf1ab0:
       title: 'Hero Session5'
       price:
         number: '250.000000'
-        currency_code: USD
+        currency_code: BRL
       status: '1'
       weight:
         number: '1.000000'
@@ -158,7 +158,7 @@ f8979cf3-072b-4c8f-8e6b-53cb38bf1ab0:
       title: 'Colorplus 200 Film'
       price:
         number: '10.000000'
-        currency_code: USD
+        currency_code: BRL
       status: '1'
       weight:
         number: '1.000000'
@@ -186,7 +186,7 @@ eb2c8a2c-9042-432d-a1fa-c3fe9545b9ad:
       title: 'Black Headphones'
       price:
         number: '49.990000'
-        currency_code: USD
+        currency_code: BRL
       status: '1'
       weight:
         number: '1.000000'
@@ -219,7 +219,7 @@ b1d045ea-f36b-4ae4-9ba2-5c1ae2ebd991:
       title: 'Pronto600 Instant Camera'
       price:
         number: '99.990000'
-        currency_code: USD
+        currency_code: BRL
       status: '1'
       weight:
         number: '1.000000'
@@ -248,7 +248,7 @@ df9cf94e-5148-49ad-a5ea-98b3a3549d9f:
       title: 'Wireless Speaker'
       price:
         number: '349.990000'
-        currency_code: USD
+        currency_code: BRL
       status: '1'
       weight:
         number: '1.000000'
@@ -282,7 +282,7 @@ df9cf94e-5148-49ad-a5ea-98b3a3549d9f:
       title: '24" x 36" Fawkestrooper Print'
       price:
         number: '50.000000'
-        currency_code: USD
+        currency_code: BRL
       status: '1'
       weight:
         number: '1.000000'
@@ -309,7 +309,7 @@ af958570-3bcb-4253-ad2d-ed33803476b7:
       title: '24" x 36" Flowers Print'
       price:
         number: '41.000000'
-        currency_code: USD
+        currency_code: BRL
       status: '1'
       weight:
         number: '1.000000'
@@ -336,7 +336,7 @@ bdbc1a71-afa1-495f-a9f1-7e696aca40fc:
       title: '24" x 36" Foggy Forest Print'
       price:
         number: '41.000000'
-        currency_code: USD
+        currency_code: BRL
       status: '1'
       weight:
         number: '1.000000'
@@ -366,7 +366,7 @@ aef79b83-0fe1-4995-9563-889651c12a03:
       title: '24" x 30" Hiding Goat Print'
       price:
         number: '38.000000'
-        currency_code: USD
+        currency_code: BRL
       status: '1'
       weight:
         number: '1.000000'
@@ -393,7 +393,7 @@ aef79b83-0fe1-4995-9563-889651c12a03:
       title: '24" x 36" Hot Air Balloons'
       price:
         number: '35.000000'
-        currency_code: USD
+        currency_code: BRL
       status: '1'
       weight:
         number: '1.000000'
@@ -420,7 +420,7 @@ aef79b83-0fe1-4995-9563-889651c12a03:
       title: '24" x 36" Moon Over Mountains Print'
       price:
         number: '35.000000'
-        currency_code: USD
+        currency_code: BRL
       status: '1'
       weight:
         number: '1.000000'
@@ -447,7 +447,7 @@ aef79b83-0fe1-4995-9563-889651c12a03:
       title: '24" x 36" Night City Print'
       price:
         number: '50.000000'
-        currency_code: USD
+        currency_code: BRL
       status: '1'
       weight:
         number: '1.000000'
@@ -474,7 +474,7 @@ a596d3dc-4d36-4c76-8789-36f76d526ef0:
       title: '24" x 36" Palms Print'
       price:
         number: '62.000000'
-        currency_code: USD
+        currency_code: BRL
       status: '1'
       weight:
         number: '1.000000'
@@ -501,7 +501,7 @@ a596d3dc-4d36-4c76-8789-36f76d526ef0:
       title: '36" x 24" Seagulls Print'
       price:
         number: '42.000000'
-        currency_code: USD
+        currency_code: BRL
       status: '1'
       weight:
         number: '1.000000'
@@ -530,7 +530,7 @@ a596d3dc-4d36-4c76-8789-36f76d526ef0:
       title: '24" x 36" Splatter Print'
       price:
         number: '27.000000'
-        currency_code: USD
+        currency_code: BRL
       status: '1'
       weight:
         number: '1.000000'
@@ -559,7 +559,7 @@ a596d3dc-4d36-4c76-8789-36f76d526ef0:
       title: 'Alarm Clock'
       price:
         number: '15.000000'
-        currency_code: USD
+        currency_code: BRL
       status: '1'
       weight:
         number: '1.000000'
@@ -590,7 +590,7 @@ a596d3dc-4d36-4c76-8789-36f76d526ef0:
       title: 'The Adventure Begins Camping Mug'
       price:
         number: '20.000000'
-        currency_code: USD
+        currency_code: BRL
       status: '1'
       weight:
         number: '1.000000'
@@ -622,7 +622,7 @@ a596d3dc-4d36-4c76-8789-36f76d526ef0:
       title: 'Adventure Fuel Camping Mug'
       price:
         number: '20.000000'
-        currency_code: USD
+        currency_code: BRL
       status: '1'
       weight:
         number: '1.000000'
@@ -654,7 +654,7 @@ a596d3dc-4d36-4c76-8789-36f76d526ef0:
       title: 'Eat Well Travel Often Camping Cup'
       price:
         number: '20.000000'
-        currency_code: USD
+        currency_code: BRL
       status: '1'
       weight:
         number: '1.000000'
@@ -690,7 +690,7 @@ a596d3dc-4d36-4c76-8789-36f76d526ef0:
       title: 'Cold Pressed Juice'
       price:
         number: '10.000000'
-        currency_code: USD
+        currency_code: BRL
       status: '1'
       weight:
         number: '1.000000'
@@ -719,7 +719,7 @@ b1ea9c4e-ed04-476a-8e9a-68b3e880899e:
       title: 'Simple Pink Pot'
       price:
         number: '39.000000'
-        currency_code: USD
+        currency_code: BRL
       status: '1'
       weight:
         number: '1.000000'
@@ -749,7 +749,7 @@ b1ea9c4e-ed04-476a-8e9a-68b3e880899e:
       title: 'Teardrop Vase'
       price:
         number: '49.990000'
-        currency_code: USD
+        currency_code: BRL
       status: '1'
       weight:
         number: '1.000000'
@@ -780,7 +780,7 @@ b1ea9c4e-ed04-476a-8e9a-68b3e880899e:
       title: 'White & Wood Chair'
       price:
         number: '249.990000'
-        currency_code: USD
+        currency_code: BRL
       status: '1'
       weight:
         number: '1.000000'
@@ -811,7 +811,7 @@ fc297541-fa20-472a-bc8d-45c6c0b19a93:
       title: 'Write Ideas Notebook'
       price:
         number: '15.000000'
-        currency_code: USD
+        currency_code: BRL
       status: '1'
       weight:
         number: '1.000000'
@@ -841,7 +841,7 @@ fc297541-fa20-472a-bc8d-45c6c0b19a93:
       title: '36" Classic Beach Ball'
       price:
         number: '12.990000'
-        currency_code: USD
+        currency_code: BRL
       status: '1'
       weight:
         number: '1.000000'
@@ -876,7 +876,7 @@ fc297541-fa20-472a-bc8d-45c6c0b19a93:
       title: 'Gigantic Inflatable Flamingo'
       price:
         number: '49.990000'
-        currency_code: USD
+        currency_code: BRL
       status: '1'
       weight:
         number: '1.000000'
@@ -911,7 +911,7 @@ fc297541-fa20-472a-bc8d-45c6c0b19a93:
       title: 'Cloche Succulent Vase'
       price:
         number: '35.990000'
-        currency_code: USD
+        currency_code: BRL
       status: '1'
       weight:
         number: '1.000000'
@@ -941,7 +941,7 @@ fc297541-fa20-472a-bc8d-45c6c0b19a93:
       title: 'Basic Bar Stool'
       price:
         number: '99.990000'
-        currency_code: USD
+        currency_code: BRL
       status: '1'
       weight:
         number: '1.000000'
@@ -974,7 +974,7 @@ fc297541-fa20-472a-bc8d-45c6c0b19a93:
       title: 'Wooden Bowl in Blue'
       price:
         number: '24.990000'
-        currency_code: USD
+        currency_code: BRL
       status: '1'
       weight:
         number: '1.000000'
@@ -1005,7 +1005,7 @@ fc297541-fa20-472a-bc8d-45c6c0b19a93:
       title: 'Messenger Bag'
       price:
         number: '99.000000'
-        currency_code: USD
+        currency_code: BRL
       status: '1'
       weight:
         number: '1.000000'
@@ -1034,7 +1034,7 @@ fc297541-fa20-472a-bc8d-45c6c0b19a93:
       title: 'Gold Rim Sunnies'
       price:
         number: '14.990000'
-        currency_code: USD
+        currency_code: BRL
       status: '1'
       weight:
         number: '1.000000'
@@ -1063,7 +1063,7 @@ fc297541-fa20-472a-bc8d-45c6c0b19a93:
       title: 'Classic Watch - White Face, Brown Leather'
       price:
         number: '99.990000'
-        currency_code: USD
+        currency_code: BRL
       status: '1'
       weight:
         number: '1.000000'
@@ -1090,7 +1090,7 @@ fc297541-fa20-472a-bc8d-45c6c0b19a93:
       title: 'Cocoa Fedora'
       price:
         number: '35.000000'
-        currency_code: USD
+        currency_code: BRL
       status: '1'
       weight:
         number: '1.000000'
@@ -1117,7 +1117,7 @@ fc297541-fa20-472a-bc8d-45c6c0b19a93:
       title: 'Canvas Backpack'
       price:
         number: '64.990000'
-        currency_code: USD
+        currency_code: BRL
       status: '1'
       weight:
         number: '1.000000'
@@ -1146,7 +1146,7 @@ d7855772-5a5b-432d-8cba-894d341e4b51:
       title: 'Pleather Backpack'
       price:
         number: '29.990000'
-        currency_code: USD
+        currency_code: BRL
       status: '1'
       weight:
         number: '1.000000'
@@ -1175,7 +1175,7 @@ d7855772-5a5b-432d-8cba-894d341e4b51:
       title: 'Rose Colored Glasses'
       price:
         number: '14.990000'
-        currency_code: USD
+        currency_code: BRL
       status: '1'
       weight:
         number: '1.000000'
@@ -1202,7 +1202,7 @@ d7855772-5a5b-432d-8cba-894d341e4b51:
       title: 'Watermelon Tote Bag'
       price:
         number: '25.000000'
-        currency_code: USD
+        currency_code: BRL
       status: '1'
       weight:
         number: '1.000000'
@@ -1229,7 +1229,7 @@ d7855772-5a5b-432d-8cba-894d341e4b51:
       title: 'Knit Hat in Green'
       price:
         number: '25.000000'
-        currency_code: USD
+        currency_code: BRL
       status: '1'
       weight:
         number: '1.000000'
@@ -1258,7 +1258,7 @@ d66893f6-a681-49d6-bd9a-1910b5f1f13d:
       title: 'Knit Hat in Midnight Plum'
       price:
         number: '25.000000'
-        currency_code: USD
+        currency_code: BRL
       status: '1'
       weight:
         number: '1.000000'

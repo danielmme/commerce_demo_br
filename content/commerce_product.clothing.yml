@@ -16,7 +16,7 @@
       title: 'Drupal Commerce Hoodie - Blue, Small'
       price:
         number: '52.000000'
-        currency_code: USD
+        currency_code: BRL
       status: '1'
       attribute_size: 29c71bd2-b31b-4548-af50-d477f371a849
       attribute_color: 967105d8-5047-41f3-a065-e59edfcec5bb
@@ -39,7 +39,7 @@
       title: 'Drupal Commerce Hoodie - Blue, Medium'
       price:
         number: '52.000000'
-        currency_code: USD
+        currency_code: BRL
       status: '1'
       attribute_size: 8bb078cf-2623-42b6-a7c9-9db9b329f4d1
       attribute_color: 967105d8-5047-41f3-a065-e59edfcec5bb
@@ -62,7 +62,7 @@
       title: 'Drupal Commerce Hoodie - Blue, Large'
       price:
         number: '52.000000'
-        currency_code: USD
+        currency_code: BRL
       status: '1'
       attribute_size: 6e7055b3-2b69-4d1e-91a3-a054cdcaf7ea
       attribute_color: 967105d8-5047-41f3-a065-e59edfcec5bb
@@ -85,7 +85,7 @@
       title: 'Drupal Commerce Hoodie - Green, Small'
       price:
         number: '52.000000'
-        currency_code: USD
+        currency_code: BRL
       status: '1'
       attribute_size: 29c71bd2-b31b-4548-af50-d477f371a849
       attribute_color: 0b66adc7-be86-44cb-8221-f2d1f7175d7b
@@ -108,7 +108,7 @@
       title: 'Drupal Commerce Hoodie - Green, Medium'
       price:
         number: '52.000000'
-        currency_code: USD
+        currency_code: BRL
       status: '1'
       attribute_size: 8bb078cf-2623-42b6-a7c9-9db9b329f4d1
       attribute_color: 0b66adc7-be86-44cb-8221-f2d1f7175d7b
@@ -131,7 +131,7 @@
       title: 'Drupal Commerce Hoodie - Green, Large'
       price:
         number: '52.000000'
-        currency_code: USD
+        currency_code: BRL
       status: '1'
       attribute_size: 6e7055b3-2b69-4d1e-91a3-a054cdcaf7ea
       attribute_color: 0b66adc7-be86-44cb-8221-f2d1f7175d7b
